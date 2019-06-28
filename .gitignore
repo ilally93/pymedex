@@ -90,6 +90,11 @@ ENV/
 env.bak/
 venv.bak/
 
+.project
+
+# Pydev project settings
+.pydevproject
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -102,3 +107,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Output data
+tbic-medex/output

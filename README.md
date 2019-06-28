@@ -6,6 +6,23 @@ but since no other python wrappers seem to be available, I have decided to uploa
 
 This program essentially runs MedEx as any regular Java application.
 
+## tbic-medex
+
+export PIPELINE_ROOT=path/to/pymedex/
+
+export MEDEX_HOME=path/to/MedEx
+
+export PYTHONPATH=${PYTHONPATH}:${PIPELINE_ROOT}/medex/
+export PYTHONPATH=${PYTHONPATH}:${PIPELINE_ROOT}/tbic-medex/
+
+export PYTHONPATH=${PIPELINE_ROOT}
+
+python3 \
+    ${PIPELINE_ROOT}/tbic-medex/tbicMedex.py \
+    $MEDEX_HOME \
+    $INPUT_DIR \
+    $OUTPUT_DIR
+
 ## Example Usage
 
 Running MedEx on some input directory with some output directory.
