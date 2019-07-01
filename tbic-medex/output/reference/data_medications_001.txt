@@ -1,0 +1,4 @@
+1	Ofloxacin 200 mg p.o. q 12  klonopin one tablet twice-a-day for 2 weeks|twice-a-day|||||||2 weeks|||220558|220558|twice-a-day
+1	Ofloxacin 200 mg p.o. q 12  klonopin one tablet twice-a-day for 2 weeks|klonopin||||one tablet||q 12()|||null|206160|2598|clonazepam
+1	Ofloxacin 200 mg p.o. q 12  klonopin one tablet twice-a-day for 2 weeks|Ofloxacin|||200mg||p.o.||||C0689837|198048|7623|ofloxacin
+2	After 12/5 INR at 1.5, Coumadin was set to 10mg PO qDay for 1 week, followed by new INR.|Coumadin|||10mg||PO|qDay(R1P24H)|1 week||C0710787|855298|11289|warfarin
